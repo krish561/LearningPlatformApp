@@ -118,10 +118,6 @@ The platform includes 5 diverse demo courses to showcase functionality:
 - Advanced analytics dashboard for educators
 - Mobile application with offline learning capabilities
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Icons provided by Lucide React
